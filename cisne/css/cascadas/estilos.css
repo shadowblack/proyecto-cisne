@@ -1,0 +1,305 @@
+@charset "utf-8";
+/* CSS Document */
+
+.clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+.clearfix {
+    display: inline-block;
+}
+* html .clearfix {
+    height: 1%;
+}
+.clearfix {
+    display: block;
+}
+body {
+	background-image:url(/project_cisne/cisne/images/imagenes/bg_top_header.jpg);
+	background-repeat:repeat-x;
+	height:6px;
+	padding:0px;
+	margin:6px 0px 0px 0px;
+	font-family:'Lato',sans-serif;
+}
+.banner {
+	width:100%;
+	height:257px;
+	background-color:#defeff;
+	margin:0px;
+	padding:0px;
+}
+.bg_banner {
+	background-image:url(/project_cisne/cisne/images/imagenes/img_fondo_home.jpg);
+	background-repeat:no-repeat;
+	width:980px;
+	height:157px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.twfa {
+	padding-right:75px;
+}
+.twfa a {
+	text-decoration:none;
+	padding-right:7px;
+}
+.bg_men {
+	height:76px;
+	background-image:url(/project_cisne/cisne/images/imagenes/bg_botonera.jpg);
+	background-repeat:repeat-x;
+	margin:0px;
+}
+.cont_men {
+	width:980px;
+	margin-left:auto;
+	margin-right:auto;
+	/*padding-top:6px;*/
+}
+.cont_men ul {
+	width:980px;
+	margin-left:auto;
+	margin-right:auto;
+	/*padding-top:6px;*/
+}
+.cont_men ul li {
+	display:inline;
+	list-style-type:none;
+	padding:0px 12px 0px 12px;
+}
+.cont_men ul li a {
+	text-decoration:none;
+	color:#3692a9;
+}
+.bg_silver {
+	background-image:url(/project_cisne/cisne/images/imagenes/bg_top_content.jpg);
+	background-repeat:repeat-x;
+	height:24px;
+	/* padding-top:50px;
+	*/
+}
+.cont_silver {
+	background-color:#F7F7F7;
+	width:100%;
+	height:520px;
+	min-height:100%;
+}
+img {
+	border:0px;
+}
+.footer {
+	width:100%;
+	margin:0 auto;
+	text-align:center;
+	/*line-height:50px;*/
+	line-height:20px;
+	background:url(/project_cisne/cisne/images/imagenes/bg_footer.jpg);
+	background-repeat:repeat-x;
+	height:56px;
+	padding-top:30px;
+}
+/*#footer a {
+	color:#fff;
+	text-transform:uppercase;
+	font-size:11px;
+	font-weight:bold;
+	font-family:Arial,Helvetica,sans-serif;
+}
+#footer a:hover {
+	color: #B56161;
+}
+*/
+.fot_tex {
+	width:980px;
+	margin-left:auto;
+	margin-right:auto;
+	/*text-transform:uppercase;
+	*/
+	font-weight:bold;
+	/*font-family:Arial,Helvetica,sans-serif;
+	*/
+}
+.fot_tex ul {
+	padding:0px;
+	margin:14px 0px 0px 0px;
+}
+.fot_tex ul li {
+	display:inline;
+	list-style-type:none;
+	margin:0px 25px 0px 25px;
+}
+.fot_tex ul li a {
+	text-decoration:none;
+	color:#72C4D8;
+}
+.fot_tex ul li a:hover {
+	text-decoration:none;
+	color:#FFFFFF;
+}
+.cont_cen {
+	width:980px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:35px;
+}
+.div_lef {
+	width:700px;
+	float:left;
+	color:#A8A8A8;
+	/*background-color:#FF0000;*/
+	margin-right:20px;
+	text-align:justify;
+}
+.div_rig {
+	width:260px;
+	text-align:justify;
+	color:#A8A8A8;
+	/*background-color:#009900;*/
+	float: left;
+}
+/*......................................*/
+/*Footer Siempre abajo*/
+* {
+	margin:0;
+	padding:0;
+}
+html,body {
+	height:100%;
+}
+.cont_silver {
+	min-height:100%;
+}
+#main {
+	overflow:auto;
+	padding-bottom: 180px;
+}
+#footer {
+	position:relative;
+	margin-top:-180px;
+	/* negative value of footer height */
+	height:180px;
+	clear:both;
+	background-color:#003333;
+}
+/*Opera Fix*/
+body:before {
+	/* thanks to Maleika (Kohoutec)*/
+	content:"";
+	height:100%;
+	float:left;
+	width:0;
+	margin-top:-32767px;
+	/* thank you Erik J - negate effect of float*/
+}
+.m_5 {
+	background-image:url(/project_cisne/cisne/images/imagenes/bg_men_m.jpg);
+	background-repeat:no-repeat;
+	width:107px;
+	height:50px;
+	float:left;
+	margin-left:auto;
+	margin-right: auto;
+}
+.bg_log_foo
+{
+background-image: url(/project_cisne/cisne/images/imagenes/log_footer.png); z-index: 5; width: 127px; position: relative; top: -22px; height: 26px; margin-left:820px;
+}
+
+.div_bg_lin
+{
+	background-image: url(/project_cisne/cisne/images/imagenes/lin_bg.png);
+    background-repeat: repeat-x;
+    height: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    width: 980px;
+    z-index: 5;
+}
+.titcol
+{
+	color:#3692a9;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+.bold
+{
+	font-weight:bold;
+	color:#777777;
+}
+.portafolio
+{
+	 /* background-image: url("/project_cisne/cisne/images/imagenes/lin_bg.png");
+    background-repeat: repeat-x;*/
+    /*height: 11px;*/
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 36px;
+    width: 980px;
+    z-index: 5;
+}
+
+.cont_icon
+{
+	width:260px;
+}
+.cont_icon a
+{
+	text-decoration:none;
+	color:#A8A8A8;
+}
+.cont_icon a:hover
+{
+	color:#3692A9;
+}
+
+.bg_color
+{
+background-color: #F7F7F7;
+}
+.tct_lef
+{
+	width:270px; 
+	height:200px; 
+	/*background-color:#FFCC33; */
+	float:left;
+}
+
+.tct_rig
+{
+	width:300px; 
+	height:200px; 
+	/*background-color:#666666; */
+	float:left;
+}
+.inp
+{
+	border:none;
+	background-color:#E9E7E8;
+	width:200px;
+	margin-top:2px;
+	margin-bottom:5px;
+	color:#3692A9;
+	/*font-weight:bold;*/
+}
+
+.com
+{
+	border:none;
+	background-color:#E9E7E8;
+	/*width:170px;*/
+	margin-top:5px;
+	margin-bottom:5px;
+}
+textarea {
+        resize: none;
+}
+.cisne
+{
+	float: left; padding-top: 55px; text-align: center; width: 580px;
+}
