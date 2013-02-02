@@ -60,7 +60,7 @@
                     <?php
 							}else{
                     ?>
-                    		<a href="quienesomos.php">
+                    		<a href="<?php echo Yii::app()->baseUrl?>/quienessomos">
                                 <img src="<?php echo Yii::app()->baseUrl?>/images/imagenes/btn_2_off.jpg"/>
                             </a>
                     <?php 
@@ -68,7 +68,7 @@
                     ?>
                 </li>
                 <li>
-                	<a href="javascript:;">
+                	<a href="<?php echo Yii::app()->baseUrl?>/portafolio">
                     	<img src="<?php echo Yii::app()->baseUrl?>/images/imagenes/btn_3_off.jpg"/>
                     </a>
                 </li>
@@ -83,7 +83,7 @@
                     <?php
 							}else{
                     ?>
-                    		<a href="hospedaje.php">
+                    		<a href="<?php echo Yii::app()->baseUrl?>/hospedaje">
                                 <img src="<?php echo Yii::app()->baseUrl?>/images/imagenes/btn_4_off.jpg"/>
                             </a>
                     <?php 
@@ -101,7 +101,7 @@
                     <?php
 							}else{
                     ?>
-                    		<a href="servicio.php">
+                    		<a href="<?php echo Yii::app()->baseUrl?>/contactenos">
                                 <img src="<?php echo Yii::app()->baseUrl?>/images/imagenes/btn_5_off.jpg"/>
                             </a>
                     <?php 
@@ -120,7 +120,7 @@
                     <?php
 							}else{
                     ?>
-                    		<a href="contactenos.php">
+                    		<a href="<?php echo Yii::app()->baseUrl?>/contactenos">
                                 <img src="<?php echo Yii::app()->baseUrl?>/images/imagenes/btn_6_off.jpg"/>
                             </a>
                     <?php 
