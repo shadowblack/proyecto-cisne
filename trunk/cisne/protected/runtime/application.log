@@ -12470,3 +12470,1192 @@ Stack trace:
 REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
 HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/quienessomos
 ---
+2013/01/26 00:41:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "goo"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('goo')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/?r=goo
+---
+2013/02/02 20:23:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "quienesomos.php"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('quienesomos.php')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/quienesomos.php
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos.php
+---
+2013/02/02 20:23:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/quienessomos
+---
+2013/02/02 20:24:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/quienessomos
+---
+2013/02/02 20:24:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/hospedaje
+---
+2013/02/02 20:24:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logocenter.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/logoce...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/logocenter.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/hospedaje
+---
+2013/02/02 20:24:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:24:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:24:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:24:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:24:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/btn_enviar.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/btn_en...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/btn_enviar.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:24:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "quienesomos.php"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('quienesomos.php')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/quienesomos.php
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/index.php
+---
+2013/02/02 20:27:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "quienesomos.php"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('quienesomos.php')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/quienesomos.php
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/index.php
+---
+2013/02/02 20:30:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "quienesomos"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('quienesomos')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/quienesomos
+---
+2013/02/02 20:30:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/quienessomos
+---
+2013/02/02 20:30:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/quienessomos
+---
+2013/02/02 20:30:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/quienessomos
+---
+2013/02/02 20:30:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "quienesomos.php"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('quienesomos.php')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/quienesomos.php
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/quienessomos
+---
+2013/02/02 20:30:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "quienesomos.php"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('quienesomos.php')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/quienesomos.php
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/quienessomos
+---
+2013/02/02 20:31:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "quienesomos.php"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('quienesomos.php')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/quienesomos.php
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/quienessomos
+---
+2013/02/02 20:32:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "quienesomos.php"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('quienesomos.php')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/quienesomos.php
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/quienessomos
+---
+2013/02/02 20:32:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/quienessomos
+---
+2013/02/02 20:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/btn_enviar.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/btn_en...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/btn_enviar.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/btn_enviar.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/btn_en...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/btn_enviar.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/hospedaje
+---
+2013/02/02 20:36:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logocenter.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/logoce...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/logocenter.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/hospedaje
+---
+2013/02/02 20:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/btn_enviar.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/btn_en...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/btn_enviar.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "contactenos.php"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('contactenos.php')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/contactenos.php
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/btn_enviar.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/btn_en...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/btn_enviar.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:36:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "contactenos.php"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('contactenos.php')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/contactenos.php
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:37:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:37:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:37:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:37:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:37:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/btn_enviar.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/btn_en...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/btn_enviar.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/btn_enviar.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/btn_en...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/btn_enviar.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/btn_enviar.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/btn_en...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/btn_enviar.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:38:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/btn_enviar.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/btn_en...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/btn_enviar.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/quienessomos
+---
+2013/02/02 20:39:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logocenter.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/logoce...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/logocenter.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/hospedaje
+---
+2013/02/02 20:39:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/hospedaje
+---
+2013/02/02 20:39:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/logocenter.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/logoce...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/logocenter.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/hospedaje
+---
+2013/02/02 20:39:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/btn_enviar.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/btn_en...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/btn_enviar.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/lin_bg.png"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/lin_bg...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/lin_bg.png
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_map.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_map.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_telephone.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_t...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_telephone.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/icon_mail.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/icon_m...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/icon_mail.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 20:39:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "imagenes/btn_enviar.jpg"' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('imagenes/btn_en...')
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/project_cisne/cisne/imagenes/btn_enviar.jpg
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/contactenos
+---
+2013/02/02 21:51:38 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: could not find driver' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\CDbConnection.php:382
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\CDbConnection.php(331): CDbConnection->open()
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\CDbConnection.php(309): CDbConnection->setActive(true)
+#2 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModule.php(388): CDbConnection->init()
+#3 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModule.php(104): CModule->getComponent('db')
+#4 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\gii\generators\model\ModelCode.php(57): CModule->__get('db')
+#5 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CFormModel.php(40): ModelCode->init()
+#6 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\gii\CCodeGenerator.php(154): CFormModel->__construct()
+#7 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\gii\CCodeGenerator.php(64): CCodeGenerator->prepare()
+#8 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\actions\CInlineAction.php(50): CCodeGenerator->actionIndex()
+#9 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#10 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#11 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(283): CController->run('')
+#13 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('gii/model')
+#14 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/project_cisne/cisne/gii/model
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/gii/default/index
+---
+2013/02/02 21:59:55 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  la sintaxis de entrada no es válida para tipo time with time zone: «»
+LINE 1: ...ALUES ('Luis', 'Marin', 17302857, 'Ayanami909', 'now()', '')
+                                                                    ^. The SQL statement executed was: INSERT INTO "usuarios" ("nombre", "apellido", "cedula", "pass", "fregistro", "facceso") VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php (73)
+in C:\wamp\www\project_cisne\cisne\index.php (13)
+2013/02/02 21:59:55 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  la sintaxis de entrada no es válida para tipo time with time zone: «»
+LINE 1: ...ALUES ('Luis', 'Marin', 17302857, 'Ayanami909', 'now()', '')
+                                                                    ^. The SQL statement executed was: INSERT INTO "usuarios" ("nombre", "apellido", "cedula", "pass", "fregistro", "facceso") VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5)' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\CDbCommand.php:354
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\ar\CActiveRecord.php(1017): CDbCommand->execute()
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\ar\CActiveRecord.php(796): CActiveRecord->insert(NULL)
+#2 C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php(73): CActiveRecord->save()
+#3 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\actions\CInlineAction.php(50): UsuariosController->actionCreate()
+#4 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#7 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(292): CFilterChain->run()
+#11 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(283): CController->run('create')
+#13 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('usuarios/create')
+#14 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/project_cisne/cisne/usuarios/create
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/usuarios/create
+---
+2013/02/02 22:33:41 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  la sintaxis de entrada no es válida para tipo time with time zone: «10-10-10»
+LINE 1: ...VALUES ('nombre', 'apellido', 17302857, '123456', '10-10-10'...
+                                                             ^. The SQL statement executed was: INSERT INTO "usuarios" ("nombre", "apellido", "cedula", "pass", "fregistro", "facceso") VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php (73)
+in C:\wamp\www\project_cisne\cisne\index.php (13)
+2013/02/02 22:33:41 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  la sintaxis de entrada no es válida para tipo time with time zone: «10-10-10»
+LINE 1: ...VALUES ('nombre', 'apellido', 17302857, '123456', '10-10-10'...
+                                                             ^. The SQL statement executed was: INSERT INTO "usuarios" ("nombre", "apellido", "cedula", "pass", "fregistro", "facceso") VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5)' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\CDbCommand.php:354
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\ar\CActiveRecord.php(1017): CDbCommand->execute()
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\ar\CActiveRecord.php(796): CActiveRecord->insert(NULL)
+#2 C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php(73): CActiveRecord->save()
+#3 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\actions\CInlineAction.php(50): UsuariosController->actionCreate()
+#4 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#7 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(292): CFilterChain->run()
+#11 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(283): CController->run('create')
+#13 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('usuarios/create')
+#14 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/project_cisne/cisne/usuarios/create
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/usuarios/create
+---
+2013/02/02 22:34:25 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  la sintaxis de entrada no es válida para tipo time with time zone: «2013-01-01»
+LINE 1: ... VALUES ('nombre', 'apellido', 17302857, '12356', '2013-01-0...
+                                                             ^. The SQL statement executed was: INSERT INTO "usuarios" ("nombre", "apellido", "cedula", "pass", "fregistro", "facceso") VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5).
+in C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php (73)
+in C:\wamp\www\project_cisne\cisne\index.php (13)
+2013/02/02 22:34:25 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  la sintaxis de entrada no es válida para tipo time with time zone: «2013-01-01»
+LINE 1: ... VALUES ('nombre', 'apellido', 17302857, '12356', '2013-01-0...
+                                                             ^. The SQL statement executed was: INSERT INTO "usuarios" ("nombre", "apellido", "cedula", "pass", "fregistro", "facceso") VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5)' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\CDbCommand.php:354
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\ar\CActiveRecord.php(1017): CDbCommand->execute()
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\ar\CActiveRecord.php(796): CActiveRecord->insert(NULL)
+#2 C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php(73): CActiveRecord->save()
+#3 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\actions\CInlineAction.php(50): UsuariosController->actionCreate()
+#4 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#7 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(292): CFilterChain->run()
+#11 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(283): CController->run('create')
+#13 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('usuarios/create')
+#14 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/project_cisne/cisne/usuarios/create
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/usuarios/create
+---
+2013/02/02 22:35:27 [error] [exception.CException] exception 'CException' with message 'Usuarios tiene una regla de validación inválida. La regla se debe especificar attributos para ser validados y el nombre de su validador.' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(259): CModel->createValidators()
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(302): CModel->getValidators('nombre')
+#2 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\helpers\CHtml.php(1197): CModel->isAttributeRequired('nombre')
+#3 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\widgets\CActiveForm.php(563): CHtml::activeLabelEx(Object(Usuarios), 'nombre', Array)
+#4 C:\wamp\www\project_cisne\cisne\protected\views\usuarios\_form.php(19): CActiveForm->labelEx(Object(Usuarios), 'nombre')
+#5 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(127): require('C:\wamp\www\pro...')
+#6 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\pro...', Array, true)
+#7 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\pro...', Array, true)
+#8 C:\wamp\www\project_cisne\cisne\protected\views\usuarios\create.php(18): CController->renderPartial('_form', Array)
+#9 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(127): require('C:\wamp\www\pro...')
+#10 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\pro...', Array, true)
+#11 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\pro...', Array, true)
+#12 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(783): CController->renderPartial('create', Array, true)
+#13 C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php(79): CController->render('create', Array)
+#14 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\actions\CInlineAction.php(50): UsuariosController->actionCreate()
+#15 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#16 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#17 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#18 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#19 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#20 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#21 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(292): CFilterChain->run()
+#22 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(283): CController->run('create')
+#24 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('usuarios/create')
+#25 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#26 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#27 {main}
+REQUEST_URI=/project_cisne/cisne/usuarios/create
+---
+2013/02/02 22:35:31 [error] [exception.CException] exception 'CException' with message 'Usuarios tiene una regla de validación inválida. La regla se debe especificar attributos para ser validados y el nombre de su validador.' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(259): CModel->createValidators()
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(544): CModel->getValidators()
+#2 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(466): CModel->getSafeAttributeNames()
+#3 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CComponent.php(153): CModel->setAttributes(Array)
+#4 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\ar\CActiveRecord.php(160): CComponent->__set('attributes', Array)
+#5 C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php(72): CActiveRecord->__set('attributes', Array)
+#6 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\actions\CInlineAction.php(50): UsuariosController->actionCreate()
+#7 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#8 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#9 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#10 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#11 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#12 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#13 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(292): CFilterChain->run()
+#14 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(283): CController->run('create')
+#16 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('usuarios/create')
+#17 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#18 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/project_cisne/cisne/usuarios/create
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/usuarios/create
+---
+2013/02/02 22:35:33 [error] [exception.CException] exception 'CException' with message 'Usuarios tiene una regla de validación inválida. La regla se debe especificar attributos para ser validados y el nombre de su validador.' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(259): CModel->createValidators()
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(302): CModel->getValidators('nombre')
+#2 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\helpers\CHtml.php(1197): CModel->isAttributeRequired('nombre')
+#3 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\widgets\CActiveForm.php(563): CHtml::activeLabelEx(Object(Usuarios), 'nombre', Array)
+#4 C:\wamp\www\project_cisne\cisne\protected\views\usuarios\_form.php(19): CActiveForm->labelEx(Object(Usuarios), 'nombre')
+#5 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(127): require('C:\wamp\www\pro...')
+#6 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\pro...', Array, true)
+#7 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\pro...', Array, true)
+#8 C:\wamp\www\project_cisne\cisne\protected\views\usuarios\create.php(18): CController->renderPartial('_form', Array)
+#9 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(127): require('C:\wamp\www\pro...')
+#10 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\pro...', Array, true)
+#11 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\pro...', Array, true)
+#12 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(783): CController->renderPartial('create', Array, true)
+#13 C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php(79): CController->render('create', Array)
+#14 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\actions\CInlineAction.php(50): UsuariosController->actionCreate()
+#15 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#16 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#17 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#18 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#19 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#20 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#21 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(292): CFilterChain->run()
+#22 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(283): CController->run('create')
+#24 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('usuarios/create')
+#25 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#26 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#27 {main}
+REQUEST_URI=/project_cisne/cisne/usuarios/create
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/site/login
+---
+2013/02/02 22:36:19 [error] [exception.CException] exception 'CException' with message 'Usuarios tiene una regla de validación inválida. La regla se debe especificar attributos para ser validados y el nombre de su validador.' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(259): CModel->createValidators()
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(302): CModel->getValidators('nombre')
+#2 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\helpers\CHtml.php(1197): CModel->isAttributeRequired('nombre')
+#3 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\widgets\CActiveForm.php(563): CHtml::activeLabelEx(Object(Usuarios), 'nombre', Array)
+#4 C:\wamp\www\project_cisne\cisne\protected\views\usuarios\_form.php(19): CActiveForm->labelEx(Object(Usuarios), 'nombre')
+#5 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(127): require('C:\wamp\www\pro...')
+#6 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\pro...', Array, true)
+#7 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\pro...', Array, true)
+#8 C:\wamp\www\project_cisne\cisne\protected\views\usuarios\create.php(18): CController->renderPartial('_form', Array)
+#9 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(127): require('C:\wamp\www\pro...')
+#10 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\pro...', Array, true)
+#11 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\pro...', Array, true)
+#12 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(783): CController->renderPartial('create', Array, true)
+#13 C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php(79): CController->render('create', Array)
+#14 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\actions\CInlineAction.php(50): UsuariosController->actionCreate()
+#15 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#16 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#17 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#18 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#19 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#20 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#21 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(292): CFilterChain->run()
+#22 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(283): CController->run('create')
+#24 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('usuarios/create')
+#25 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#26 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#27 {main}
+REQUEST_URI=/project_cisne/cisne/usuarios/create
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/usuarios
+---
+2013/02/02 22:40:45 [error] [exception.CException] exception 'CException' with message 'Usuarios tiene una regla de validación inválida. La regla se debe especificar attributos para ser validados y el nombre de su validador.' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php:287
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(259): CModel->createValidators()
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(302): CModel->getValidators('nombre')
+#2 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\helpers\CHtml.php(1197): CModel->isAttributeRequired('nombre')
+#3 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\widgets\CActiveForm.php(563): CHtml::activeLabelEx(Object(Usuarios), 'nombre', Array)
+#4 C:\wamp\www\project_cisne\cisne\protected\views\usuarios\_form.php(19): CActiveForm->labelEx(Object(Usuarios), 'nombre')
+#5 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(127): require('C:\wamp\www\pro...')
+#6 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\pro...', Array, true)
+#7 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\pro...', Array, true)
+#8 C:\wamp\www\project_cisne\cisne\protected\views\usuarios\create.php(18): CController->renderPartial('_form', Array)
+#9 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(127): require('C:\wamp\www\pro...')
+#10 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\pro...', Array, true)
+#11 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\pro...', Array, true)
+#12 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(783): CController->renderPartial('create', Array, true)
+#13 C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php(79): CController->render('create', Array)
+#14 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\actions\CInlineAction.php(50): UsuariosController->actionCreate()
+#15 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#16 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#17 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#18 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#19 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#20 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#21 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(292): CFilterChain->run()
+#22 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(283): CController->run('create')
+#24 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('usuarios/create')
+#25 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#26 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#27 {main}
+REQUEST_URI=/project_cisne/cisne/usuarios/create
+---
+2013/02/02 22:40:56 [error] [php] include(.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\YiiBase.php:423)
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\validators\CValidator.php(187): import()
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(285): createValidator()
+#2 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(259): Usuarios->createValidators()
+#3 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CModel.php(302): Usuarios->getValidators()
+#4 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\helpers\CHtml.php(1197): Usuarios->isAttributeRequired()
+#5 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\widgets\CActiveForm.php(563): activeLabelEx()
+#6 C:\wamp\www\project_cisne\cisne\protected\views\usuarios\_form.php(19): CActiveForm->labelEx()
+#7 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(127): require()
+#8 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(96): UsuariosController->renderInternal()
+#9 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(870): UsuariosController->renderFile()
+#10 C:\wamp\www\project_cisne\cisne\protected\views\usuarios\create.php(18): UsuariosController->renderPartial()
+#11 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(127): require()
+#12 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CBaseController.php(96): UsuariosController->renderInternal()
+#13 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(870): UsuariosController->renderFile()
+#14 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(783): UsuariosController->renderPartial()
+#15 C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php(79): UsuariosController->render()
+#16 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\actions\CInlineAction.php(50): UsuariosController->actionCreate()
+#17 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(309): CInlineAction->runWithParams()
+#18 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(134): UsuariosController->runAction()
+#19 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#20 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(1146): CAccessControlFilter->filter()
+#21 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CInlineFilter.php(59): UsuariosController->filterAccessControl()
+#22 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#23 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(292): CFilterChain->run()
+#24 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(266): UsuariosController->runActionWithFilters()
+#25 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(283): UsuariosController->run()
+#26 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController()
+#27 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#28 C:\wamp\www\project_cisne\cisne\index.php(13): CWebApplication->run()
+REQUEST_URI=/project_cisne/cisne/usuarios/create
+in C:\wamp\www\project_cisne\cisne\protected\views\usuarios\_form.php (19)
+in C:\wamp\www\project_cisne\cisne\protected\views\usuarios\create.php (18)
+in C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php (79)
+2013/02/02 22:43:02 [warning] [application] Failed to set unsafe attribute "fregistro" of "Usuarios".
+in C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php (72)
+in C:\wamp\www\project_cisne\cisne\index.php (13)
+2013/02/02 22:43:02 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  la sintaxis de entrada no es válida para tipo time with time zone: «»
+LINE 1: ...ceso") VALUES ('nombre', 'apellido', 17302857, '123456', '')
+                                                                    ^. The SQL statement executed was: INSERT INTO "usuarios" ("nombre", "apellido", "cedula", "pass", "facceso") VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php (73)
+in C:\wamp\www\project_cisne\cisne\index.php (13)
+2013/02/02 22:43:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  la sintaxis de entrada no es válida para tipo time with time zone: «»
+LINE 1: ...ceso") VALUES ('nombre', 'apellido', 17302857, '123456', '')
+                                                                    ^. The SQL statement executed was: INSERT INTO "usuarios" ("nombre", "apellido", "cedula", "pass", "facceso") VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\CDbCommand.php:354
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\ar\CActiveRecord.php(1017): CDbCommand->execute()
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\ar\CActiveRecord.php(796): CActiveRecord->insert(NULL)
+#2 C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php(73): CActiveRecord->save()
+#3 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\actions\CInlineAction.php(50): UsuariosController->actionCreate()
+#4 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#7 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(292): CFilterChain->run()
+#11 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(283): CController->run('create')
+#13 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('usuarios/create')
+#14 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/project_cisne/cisne/usuarios/create
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/usuarios/create
+---
+2013/02/02 22:44:43 [warning] [application] Failed to set unsafe attribute "fregistro" of "Usuarios".
+in C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php (72)
+in C:\wamp\www\project_cisne\cisne\index.php (13)
+2013/02/02 22:44:43 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  la sintaxis de entrada no es válida para tipo time with time zone: «»
+LINE 1: ...ceso") VALUES ('nombre', 'apellido', 17302857, '123456', '')
+                                                                    ^. The SQL statement executed was: INSERT INTO "usuarios" ("nombre", "apellido", "cedula", "pass", "facceso") VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php (73)
+in C:\wamp\www\project_cisne\cisne\index.php (13)
+2013/02/02 22:44:43 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand falló al ejecutar la sentencia SQL: SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  la sintaxis de entrada no es válida para tipo time with time zone: «»
+LINE 1: ...ceso") VALUES ('nombre', 'apellido', 17302857, '123456', '')
+                                                                    ^. The SQL statement executed was: INSERT INTO "usuarios" ("nombre", "apellido", "cedula", "pass", "facceso") VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)' in C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\CDbCommand.php:354
+Stack trace:
+#0 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\ar\CActiveRecord.php(1017): CDbCommand->execute()
+#1 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\db\ar\CActiveRecord.php(796): CActiveRecord->insert(NULL)
+#2 C:\wamp\www\project_cisne\cisne\protected\controllers\UsuariosController.php(73): CActiveRecord->save()
+#3 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\actions\CInlineAction.php(50): UsuariosController->actionCreate()
+#4 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#7 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(292): CFilterChain->run()
+#11 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(283): CController->run('create')
+#13 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\web\CWebApplication.php(142): CWebApplication->runController('usuarios/create')
+#14 C:\wamp\www\project_cisne\yii-1.1.12.b600af\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\project_cisne\cisne\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/project_cisne/cisne/usuarios/create
+HTTP_REFERER=http://127.0.0.1/project_cisne/cisne/usuarios/create
+---

@@ -1,4 +1,4 @@
-<?php /* @var $this Controller */ ?>
+﻿<?php /* @var $this Controller */ ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
@@ -31,17 +31,19 @@
 <body>
 
 	<?php
-		include('includes/end_title.php');
-		include('includes/banner_home_menu.php');
+		#include('includes/end_title.php');
+#		include('includes/banner_home_menu.php');
 		//include('includes/slider_home.php');
 	?>
 
-<div class="container" id="pages" style="padding:0;display:inline-block;min-height:200px;overflow-y:auto;width:100%">
+	
+	
+
 	<!--<img src="<?php #echo $baseUrl."/images/imagenes/arrow_dere.jpg"?>" />-->
 	<!--<div id="header">
 		<div id="logo"><?php //echo CHtml::encode(Yii::app()->name); ?></div>
 	</div>-->
-	<!-- header -->	
+	
 	
 	
 	
@@ -66,24 +68,39 @@
 	<?php //endif?>
 	
 	<!-- page -->
-	<?php echo $content; ?>
+	<?php #echo $content; ?>
 	<?php //include('includes/footer.php');?>
 	<!--<div class="clear"></div>-->
 
 	
 	<!--<div id="footer">-->
-		<!--Copyright &copy; <?php echo date('Y'); ?> by My Company.<br/>
+		<!--Copyright &copy; <?php #echo date('Y'); ?> by My Company.<br/>
 		All Rights Reserved.<br/>-->
 		<?php #echo Yii::powered(); ?>
 		<?php //include('includes/footer.php');?>
 	<!--</div>-->
 	
 	
-
-	</div>
+	<div class="__wrapper">
+		<table style="width:100%" border="0">
+			<!-- header -->	
+			<tr>
+				<td valign="top" class="banner-fondo">
+					<?php include('includes/banner_home_menu.php');?>
+				</td>
+			</tr>
+			<!-- body -->
+			<tr>
+				<td align="center" style="">
+					<?php echo $content; ?>
+				</td>
+			</tr>
+		</table>
+        <div class="__push"></div>
+    </div>
 	<!-- footer -->
-	<div style="display:inline-block;position:absolute;margin-top:0px;margin-bottom:0px;bottom:0;width:100%;">
-		<?php include('includes/footer.php');?>
+	<div class="__footer">
+		  <?php include('includes/footer.php');?>
 	</div>
 </body>
 </html>
