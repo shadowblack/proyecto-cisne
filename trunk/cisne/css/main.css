@@ -1,12 +1,31 @@
+* {
+        margin: 0;
+}
+html, body {
+		height: 100%;
+		
+		width:100%;
+		padding:0;
+}
 body
 {
-	margin: 0;
+	margin: 0 !important;
 	padding: 0;
 	color: #555;
 	font: normal 10pt Arial,Helvetica,sans-serif;
 	background: #EFEFEF;
+
 }
 
+.__wrapper {
+	min-height: 100%;
+	height: auto !important;
+   height: 100%;
+   margin: 0 auto -8em;
+}
+.__footer, .__push {
+   height: 8em;
+}
 #page
 {
 	margin-top: 5px;
