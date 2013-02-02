@@ -18,7 +18,7 @@
     display: block;
 }
 body {
-	background-image:url(/project_cisne/cisne/images/imagenes/bg_top_header.jpg);
+	/*background-image:url(/project_cisne/cisne/images/imagenes/bg_top_header.jpg);*/
 	background-repeat:repeat-x;
 	height:6px;
 	padding:0px;
@@ -31,6 +31,9 @@ body {
 	background-color:#defeff;
 	margin:0px;
 	padding:0px;
+}
+.banner-fondo{
+	background-color:#defeff;
 }
 .bg_banner {
 	background-image:url(/project_cisne/cisne/images/imagenes/img_fondo_home.jpg);
@@ -205,7 +208,7 @@ body:before {
 }
 .bg_log_foo
 {
-background-image: url(/project_cisne/cisne/images/imagenes/log_footer.png); z-index: 5; width: 127px; position: relative; top: -22px; height: 26px; margin-left:820px;
+background-image: url(/project_cisne/cisne/images/imagenes/log_footer.png); z-index: 5; width: 127px; position: relative; top: -22px; height: 26px; margin-left:830px;
 }
 
 .div_bg_lin
