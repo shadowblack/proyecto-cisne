@@ -44,7 +44,8 @@
 		<?php echo $form->textField($model,'activo'); ?>
 		<?php echo $form->error($model,'activo'); ?>
 	</div>
-
+	
+	<!--
 	<div class="row">
 		<?php echo $form->labelEx($model,'fregistro'); ?>
 		<?php echo $form->textField($model,'fregistro'); ?>
@@ -56,7 +57,7 @@
 		<?php echo $form->textField($model,'fmodif'); ?>
 		<?php echo $form->error($model,'fmodif'); ?>
 	</div>
-
+	-->
 	<div class="row buttons">
 		<?php echo CHtml::submitButton($model->isNewRecord ? 'Create' : 'Save'); ?>
 	</div>

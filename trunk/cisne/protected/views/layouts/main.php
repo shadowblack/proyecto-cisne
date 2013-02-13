@@ -18,7 +18,7 @@
 	<?php
 		$baseUrl = Yii::app()->baseUrl; 
 		$cs = Yii::app()->getClientScript();
-		$cs->registerScriptFile($baseUrl.'/js/jquery-1.4.4.min.js');
+		#$cs->registerScriptFile($baseUrl.'/js/jquery-1.4.4.min.js');
 		$cs->registerScriptFile($baseUrl.'/js/image-slider.js');
 		$cs->registerScriptFile($baseUrl.'/js/validar.js');
 		$cs->registerCssFile($baseUrl.'/css/cascadas/estilos.css');

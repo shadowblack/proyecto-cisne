@@ -38,19 +38,20 @@
 		<?php echo $form->passwordField($model,'pass',array('size'=>60,'maxlength'=>100)); ?>
 		<?php echo $form->error($model,'pass'); ?>
 	</div>
-
+	
+	<!--
 	<div class="row">
-		<?php echo $form->labelEx($model,'fregistro'); ?>
-		<?php echo $form->textField($model,'fregistro'); ?>
-		<?php echo $form->error($model,'fregistro'); ?>
+		<?php #echo $form->labelEx($model,'facceso'); ?>
+		<?php #echo $form->textField($model,'facceso'); ?>
+		<?php #echo $form->error($model,'facceso'); ?>
 	</div>
 
 	<div class="row">
-		<?php echo $form->labelEx($model,'facceso'); ?>
-		<?php echo $form->textField($model,'facceso'); ?>
-		<?php echo $form->error($model,'facceso'); ?>
+		<?php #echo $form->labelEx($model,'fregistro'); ?>
+		<?php #echo $form->textField($model,'fregistro'); ?>
+		<?php #echo $form->error($model,'fregistro'); ?>
 	</div>
-
+	-->
 	<div class="row buttons">
 		<?php echo CHtml::submitButton($model->isNewRecord ? 'Create' : 'Save'); ?>
 	</div>

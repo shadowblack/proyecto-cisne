@@ -25,12 +25,12 @@
 	<?php echo CHtml::encode($data->pass); ?>
 	<br />
 
-	<b><?php echo CHtml::encode($data->getAttributeLabel('fregistro')); ?>:</b>
-	<?php echo CHtml::encode($data->fregistro); ?>
-	<br />
-
 	<b><?php echo CHtml::encode($data->getAttributeLabel('facceso')); ?>:</b>
 	<?php echo CHtml::encode($data->facceso); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('fregistro')); ?>:</b>
+	<?php echo CHtml::encode($data->fregistro); ?>
 	<br />
 
 

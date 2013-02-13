@@ -1,16 +1,16 @@
 ﻿<?php
 
 /**
- * This is the model class for table "public.usuarios".
+ * This is the model class for table "usuarios".
  *
- * The followings are the available columns in table 'public.usuarios':
+ * The followings are the available columns in table 'usuarios':
  * @property integer $id_usuario
  * @property string $nombre
  * @property string $apellido
  * @property integer $cedula
  * @property string $pass
- * @property string $fregistro
  * @property string $facceso
+ * @property string $fregistro
  */
 class Usuarios extends CActiveRecord
 {
@@ -29,7 +29,7 @@ class Usuarios extends CActiveRecord
 	 */
 	public function tableName()
 	{
-		return 'public.usuarios';
+		return 'usuarios';
 	}
 
 	/**
@@ -40,14 +40,16 @@ class Usuarios extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
+			//array('cedula, pass, fregistro', 'required'),
 			array('cedula, pass', 'required'),
+			array('cedula','unique'),
 			array('cedula', 'numerical', 'integerOnly'=>true),
 			array('nombre, apellido', 'length', 'max'=>50),
 			array('pass', 'length', 'max'=>100),
 			array('facceso', 'safe'),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
-			array('id_usuario, nombre, apellido, cedula, pass, fregistro, facceso', 'safe', 'on'=>'search'),
+			array('id_usuario, nombre, apellido, cedula, pass, facceso, fregistro', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -68,13 +70,13 @@ class Usuarios extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'id_usuario' => 'Identificacion del Usuario',
+			'id_usuario' => 'Id Usuario',
 			'nombre' => 'Nombre',
 			'apellido' => 'Apellido',
 			'cedula' => 'Cédula',
 			'pass' => 'Contraseña',
-			'fregistro' => 'Fecha de Registro',
 			'facceso' => 'Fecha de Acceso',
+			'fregistro' => 'Fecha de Registro',
 		);
 	}
 
@@ -94,8 +96,8 @@ class Usuarios extends CActiveRecord
 		$criteria->compare('apellido',$this->apellido,true);
 		$criteria->compare('cedula',$this->cedula);
 		$criteria->compare('pass',$this->pass,true);
-		$criteria->compare('fregistro',$this->fregistro,true);
 		$criteria->compare('facceso',$this->facceso,true);
+		$criteria->compare('fregistro',$this->fregistro,true);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,
