@@ -3,12 +3,12 @@
 /* @var $dataProvider CActiveDataProvider */
 
 $this->breadcrumbs=array(
-	'Contenidoses',
+	'Contenidos',
 );
 
 $this->menu=array(
-	array('label'=>'Create Contenidos', 'url'=>array('create')),
-	array('label'=>'Manage Contenidos', 'url'=>array('admin')),
+	array('label'=>'Crear Contenidos', 'url'=>array('create')),
+	array('label'=>'Administrar Contenidos', 'url'=>array('admin')),
 );
 ?>
 

@@ -26,7 +26,7 @@ $this->menu=array(
 		'apellido',
 		'cedula',
 		'pass',
-		'fregistro',
 		'facceso',
+		'fregistro',
 	),
 )); ?>

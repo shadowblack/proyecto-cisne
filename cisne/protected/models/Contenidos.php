@@ -1,9 +1,9 @@
 <?php
 
 /**
- * This is the model class for table "public.contenidos".
+ * This is the model class for table "contenidos".
  *
- * The followings are the available columns in table 'public.contenidos':
+ * The followings are the available columns in table 'contenidos':
  * @property integer $id_contenido
  * @property string $cod_content
  * @property string $nom_content
@@ -30,7 +30,7 @@ class Contenidos extends CActiveRecord
 	 */
 	public function tableName()
 	{
-		return 'public.contenidos';
+		return 'contenidos';
 	}
 
 	/**
@@ -41,11 +41,13 @@ class Contenidos extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('cod_content, nom_content, des_content, fregistro', 'required'),
+			//array('cod_content, nom_content, des_content, fregistro', 'required'),
+			array('cod_content, nom_content, des_content', 'required'),
 			array('activo', 'numerical', 'integerOnly'=>true),
 			array('cod_content', 'length', 'max'=>3),
 			array('nom_content', 'length', 'max'=>50),
 			array('des_content', 'length', 'max'=>100),
+			array('cod_content','unique'),
 			array('est_content, fmodif', 'safe'),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.

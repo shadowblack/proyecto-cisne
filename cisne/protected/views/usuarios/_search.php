@@ -37,13 +37,13 @@
 	</div>
 
 	<div class="row">
-		<?php echo $form->label($model,'fregistro'); ?>
-		<?php echo $form->textField($model,'fregistro'); ?>
+		<?php echo $form->label($model,'facceso'); ?>
+		<?php echo $form->textField($model,'facceso'); ?>
 	</div>
 
 	<div class="row">
-		<?php echo $form->label($model,'facceso'); ?>
-		<?php echo $form->textField($model,'facceso'); ?>
+		<?php echo $form->label($model,'fregistro'); ?>
+		<?php echo $form->textField($model,'fregistro'); ?>
 	</div>
 
 	<div class="row buttons">

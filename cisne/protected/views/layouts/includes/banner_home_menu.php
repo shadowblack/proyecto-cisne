@@ -42,7 +42,7 @@
                     <?php
 							}else{
                     ?>
-                    		<a href="index.php">
+                    		<a href="<?php echo Yii::app()->baseUrl?>">
                                 <img src="<?php echo Yii::app()->baseUrl?>/images/imagenes/btn_1_off.jpg"/>
                             </a>
                     <?php 
